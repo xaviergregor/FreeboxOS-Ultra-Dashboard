@@ -17,7 +17,7 @@
 
 ---
 
-![Dashboard Principal](img-capture/01.png)
+![Dashboard Principal](img-capture/02.png)
 
 > **⚠️ Version BETA** - Ce projet est en cours de developpement. Des bugs peuvent etre presents et certaines fonctionnalites peuvent ne pas fonctionner comme prevu. N'hesitez pas a [signaler les problemes](../../issues) rencontres.
 
@@ -30,8 +30,8 @@ Freebox OS Ultra Dashboard est une interface web alternative pour gerer votre Fr
 <details>
 <summary>Voir les captures d'ecran</summary>
 
-![Screenshot 01](img-capture/01.png)
-![Screenshot 02](img-capture/02.png)
+![Screenshot 01](img-capture/02.png)
+![Screenshot 02](img-capture/01.png)
 ![Screenshot 03](img-capture/03.png)
 ![Screenshot 04](img-capture/04.png)
 ![Screenshot 05](img-capture/05.png)
@@ -39,7 +39,12 @@ Freebox OS Ultra Dashboard est une interface web alternative pour gerer votre Fr
 ![Screenshot 07](img-capture/07.png)
 ![Screenshot 08](img-capture/08.png)
 ![Screenshot 09](img-capture/09.png)
-
+![Screenshot 10](img-capture/10.png)
+![Screenshot 11](img-capture/11.png)
+![Screenshot 12](img-capture/12.png)
+![Screenshot 13](img-capture/13.png)
+![Screenshot 14](img-capture/14.png)
+![Screenshot 15](img-capture/15.png)
 </details>
 
 ## Fonctionnalites
