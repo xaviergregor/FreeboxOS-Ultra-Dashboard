@@ -123,8 +123,8 @@ export const SpeedtestWidget: React.FC = () => {
       {/* Speed cards - Max capacity */}
       <div className="grid grid-cols-2 gap-4">
         {/* Download */}
-        <div className="bg-[#151515] p-4 rounded-lg border border-gray-800">
-          <div className="flex items-center gap-2 text-xs text-gray-500 mb-2">
+        <div className="bg-[#151515] flex flex-col p-4 rounded-lg border border-gray-800">
+          <div className="flex flex-grow items-start justify-center gap-2 text-xs text-gray-500 mb-2">
             <ArrowDown size={12} className="text-blue-500" />
             Descendant max
           </div>
@@ -135,8 +135,8 @@ export const SpeedtestWidget: React.FC = () => {
         </div>
 
         {/* Upload */}
-        <div className="bg-[#151515] p-4 rounded-lg border border-gray-800">
-          <div className="flex items-center gap-2 text-xs text-gray-500 mb-2">
+        <div className="bg-[#151515] flex flex-col p-4 rounded-lg border border-gray-800">
+          <div className="flex flex-grow items-start justify-center gap-2 text-xs text-gray-500 mb-2">
             <ArrowUp size={12} className="text-emerald-500" />
             Montant max
           </div>
